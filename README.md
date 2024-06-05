@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="I'm a passionate and aspiring software developer currently exploring the exciting world of web development with a focus on the MERN stack (MongoDB, Express.js, React.js, Node.js) and Java programming. 🚀</h3>
 
 - ⚡ Fun fact **HTML is an programming language 🤔**
 
